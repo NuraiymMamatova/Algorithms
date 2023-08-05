@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    password: 1234
+    username: postgres
+    url: jdbc:postgresql://localhost:2345/algorithms
+  jpa:
+    show-sql: true
